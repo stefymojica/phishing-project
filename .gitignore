@@ -3,15 +3,15 @@ __pycache__/
 .DS_Store
 .venv/
 
-# documentación
+# no subir el informe
 informe.tex
 informe.pdf
-*.md
-!README.md
+informe.aux
+informe.log
+informe.out
+informe.toc
 
-# salidas del informe y de los experimentos
-outputs/
-experiments/results/*.csv
+# de results, solo demo.md y rag_recorrido.md
 experiments/results/*.md
-experiments/results/*.png
-experiments/results/*.json
+!experiments/results/demo.md
+!experiments/results/rag_recorrido.md

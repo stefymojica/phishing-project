@@ -1,0 +1,637 @@
+[
+  {
+    "pregunta": "q1",
+    "retriever": "bm25",
+    "email_id": "p25",
+    "gold": [
+      "campana_microsoft",
+      "regla_dominio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "campana_microsoft",
+      "regla_urgencia",
+      "regla_cuenta"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q2",
+    "retriever": "bm25",
+    "email_id": "p26",
+    "gold": [
+      "campana_banco",
+      "regla_enlace",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_dominio",
+      "campana_banco",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q3",
+    "retriever": "bm25",
+    "email_id": "p27",
+    "gold": [
+      "campana_paquete",
+      "regla_urgencia",
+      "regla_premio"
+    ],
+    "recuperado": [
+      "campana_paquete",
+      "campana_dian",
+      "regla_urgencia"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q4",
+    "retriever": "bm25",
+    "email_id": "p28",
+    "gold": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recuperado": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_dominio"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q5",
+    "retriever": "bm25",
+    "email_id": "p29",
+    "gold": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "campana_drive",
+      "regla_dominio",
+      "campana_paquete"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q6",
+    "retriever": "bm25",
+    "email_id": "p30",
+    "gold": [
+      "campana_banco",
+      "regla_cuenta",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_cuenta",
+      "regla_credenciales",
+      "campana_banco"
+    ],
+    "recall_at_k": 1.0
+  },
+  {
+    "pregunta": "q7",
+    "retriever": "bm25",
+    "email_id": "p31",
+    "gold": [
+      "campana_dian",
+      "regla_premio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "regla_premio",
+      "campana_dian",
+      "campana_universidad"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q8",
+    "retriever": "bm25",
+    "email_id": "p32",
+    "gold": [
+      "regla_adjunto",
+      "campana_dian"
+    ],
+    "recuperado": [
+      "regla_adjunto",
+      "regla_dominio",
+      "campana_dian"
+    ],
+    "recall_at_k": 1.0
+  },
+  {
+    "pregunta": "q1",
+    "retriever": "tfidf",
+    "email_id": "p25",
+    "gold": [
+      "campana_microsoft",
+      "regla_dominio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "campana_microsoft",
+      "regla_urgencia",
+      "regla_cuenta"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q2",
+    "retriever": "tfidf",
+    "email_id": "p26",
+    "gold": [
+      "campana_banco",
+      "regla_enlace",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_dominio",
+      "campana_banco",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q3",
+    "retriever": "tfidf",
+    "email_id": "p27",
+    "gold": [
+      "campana_paquete",
+      "regla_urgencia",
+      "regla_premio"
+    ],
+    "recuperado": [
+      "campana_paquete",
+      "campana_dian",
+      "regla_urgencia"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q4",
+    "retriever": "tfidf",
+    "email_id": "p28",
+    "gold": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recuperado": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_dominio"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q5",
+    "retriever": "tfidf",
+    "email_id": "p29",
+    "gold": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "campana_drive",
+      "regla_dominio",
+      "campana_paquete"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q6",
+    "retriever": "tfidf",
+    "email_id": "p30",
+    "gold": [
+      "campana_banco",
+      "regla_cuenta",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_credenciales",
+      "regla_cuenta",
+      "campana_banco"
+    ],
+    "recall_at_k": 1.0
+  },
+  {
+    "pregunta": "q7",
+    "retriever": "tfidf",
+    "email_id": "p31",
+    "gold": [
+      "campana_dian",
+      "regla_premio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "regla_premio",
+      "campana_dian",
+      "campana_universidad"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q8",
+    "retriever": "tfidf",
+    "email_id": "p32",
+    "gold": [
+      "regla_adjunto",
+      "campana_dian"
+    ],
+    "recuperado": [
+      "regla_adjunto",
+      "regla_dominio",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.5
+  },
+  {
+    "pregunta": "q1",
+    "retriever": "cbow",
+    "email_id": "p25",
+    "gold": [
+      "campana_microsoft",
+      "regla_dominio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "regla_urgencia",
+      "campana_microsoft",
+      "campana_dian"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q2",
+    "retriever": "cbow",
+    "email_id": "p26",
+    "gold": [
+      "campana_banco",
+      "regla_enlace",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_premio",
+      "campana_drive",
+      "campana_banco"
+    ],
+    "recall_at_k": 0.3333333333333333
+  },
+  {
+    "pregunta": "q3",
+    "retriever": "cbow",
+    "email_id": "p27",
+    "gold": [
+      "campana_paquete",
+      "regla_urgencia",
+      "regla_premio"
+    ],
+    "recuperado": [
+      "campana_paquete",
+      "campana_dian",
+      "regla_urgencia"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q4",
+    "retriever": "cbow",
+    "email_id": "p28",
+    "gold": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recuperado": [
+      "campana_universidad",
+      "campana_banco",
+      "regla_cuenta"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q5",
+    "retriever": "cbow",
+    "email_id": "p29",
+    "gold": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "campana_drive",
+      "regla_dominio",
+      "campana_paquete"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q6",
+    "retriever": "cbow",
+    "email_id": "p30",
+    "gold": [
+      "campana_banco",
+      "regla_cuenta",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_credenciales",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q7",
+    "retriever": "cbow",
+    "email_id": "p31",
+    "gold": [
+      "campana_dian",
+      "regla_premio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "campana_dian",
+      "regla_urgencia",
+      "campana_universidad"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q8",
+    "retriever": "cbow",
+    "email_id": "p32",
+    "gold": [
+      "regla_adjunto",
+      "campana_dian"
+    ],
+    "recuperado": [
+      "regla_adjunto",
+      "regla_dominio",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.5
+  },
+  {
+    "pregunta": "q1",
+    "retriever": "skipgram",
+    "email_id": "p25",
+    "gold": [
+      "campana_microsoft",
+      "regla_dominio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "regla_urgencia",
+      "campana_microsoft",
+      "campana_dian"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q2",
+    "retriever": "skipgram",
+    "email_id": "p26",
+    "gold": [
+      "campana_banco",
+      "regla_enlace",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_dominio",
+      "campana_banco",
+      "regla_premio"
+    ],
+    "recall_at_k": 0.3333333333333333
+  },
+  {
+    "pregunta": "q3",
+    "retriever": "skipgram",
+    "email_id": "p27",
+    "gold": [
+      "campana_paquete",
+      "regla_urgencia",
+      "regla_premio"
+    ],
+    "recuperado": [
+      "campana_dian",
+      "campana_paquete",
+      "regla_premio"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q4",
+    "retriever": "skipgram",
+    "email_id": "p28",
+    "gold": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recuperado": [
+      "campana_universidad",
+      "campana_banco",
+      "regla_cuenta"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q5",
+    "retriever": "skipgram",
+    "email_id": "p29",
+    "gold": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_cuenta"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q6",
+    "retriever": "skipgram",
+    "email_id": "p30",
+    "gold": [
+      "campana_banco",
+      "regla_cuenta",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_credenciales",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q7",
+    "retriever": "skipgram",
+    "email_id": "p31",
+    "gold": [
+      "campana_dian",
+      "regla_premio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "regla_premio",
+      "campana_dian",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q8",
+    "retriever": "skipgram",
+    "email_id": "p32",
+    "gold": [
+      "regla_adjunto",
+      "campana_dian"
+    ],
+    "recuperado": [
+      "regla_adjunto",
+      "regla_enlace",
+      "regla_dominio"
+    ],
+    "recall_at_k": 0.5
+  },
+  {
+    "pregunta": "q1",
+    "retriever": "glove",
+    "email_id": "p25",
+    "gold": [
+      "campana_microsoft",
+      "regla_dominio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "campana_microsoft",
+      "regla_credenciales",
+      "regla_urgencia"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q2",
+    "retriever": "glove",
+    "email_id": "p26",
+    "gold": [
+      "campana_banco",
+      "regla_enlace",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_dominio",
+      "campana_banco",
+      "regla_enlace"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q3",
+    "retriever": "glove",
+    "email_id": "p27",
+    "gold": [
+      "campana_paquete",
+      "regla_urgencia",
+      "regla_premio"
+    ],
+    "recuperado": [
+      "campana_paquete",
+      "campana_dian",
+      "regla_credenciales"
+    ],
+    "recall_at_k": 0.3333333333333333
+  },
+  {
+    "pregunta": "q4",
+    "retriever": "glove",
+    "email_id": "p28",
+    "gold": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "recuperado": [
+      "campana_universidad",
+      "regla_cuenta",
+      "campana_dian"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q5",
+    "retriever": "glove",
+    "email_id": "p29",
+    "gold": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "campana_drive",
+      "regla_dominio",
+      "campana_universidad"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q6",
+    "retriever": "glove",
+    "email_id": "p30",
+    "gold": [
+      "campana_banco",
+      "regla_cuenta",
+      "regla_credenciales"
+    ],
+    "recuperado": [
+      "regla_credenciales",
+      "regla_enlace",
+      "campana_universidad"
+    ],
+    "recall_at_k": 0.3333333333333333
+  },
+  {
+    "pregunta": "q7",
+    "retriever": "glove",
+    "email_id": "p31",
+    "gold": [
+      "campana_dian",
+      "regla_premio",
+      "regla_urgencia"
+    ],
+    "recuperado": [
+      "campana_universidad",
+      "regla_premio",
+      "campana_dian"
+    ],
+    "recall_at_k": 0.6666666666666666
+  },
+  {
+    "pregunta": "q8",
+    "retriever": "glove",
+    "email_id": "p32",
+    "gold": [
+      "regla_adjunto",
+      "campana_dian"
+    ],
+    "recuperado": [
+      "regla_adjunto",
+      "regla_enlace",
+      "campana_universidad"
+    ],
+    "recall_at_k": 0.5
+  }
+]
