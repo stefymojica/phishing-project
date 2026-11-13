@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# documentación
+informe.tex
+informe.pdf
+README.md
+*.md
+
+# salidas del informe y de los experimentos
+outputs/
+experiments/results/*.csv
+experiments/results/*.md
+experiments/results/*.png
+experiments/results/*.json

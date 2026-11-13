@@ -1,0 +1,81 @@
+[
+  {
+    "id": "q1",
+    "email_id": "p25",
+    "gold_chunk_ids": [
+      "campana_microsoft",
+      "regla_dominio",
+      "regla_urgencia"
+    ],
+    "nota": "Office 365 + micros0ft + 1 hora"
+  },
+  {
+    "id": "q2",
+    "email_id": "p26",
+    "gold_chunk_ids": [
+      "campana_banco",
+      "regla_enlace",
+      "regla_credenciales"
+    ],
+    "nota": "Bancolombia + .tk + autorizar transferencia"
+  },
+  {
+    "id": "q3",
+    "email_id": "p27",
+    "gold_chunk_ids": [
+      "campana_paquete",
+      "regla_urgencia",
+      "regla_premio"
+    ],
+    "nota": "Servientrega + abono + 2 horas"
+  },
+  {
+    "id": "q4",
+    "email_id": "p28",
+    "gold_chunk_ids": [
+      "campana_universidad",
+      "regla_cuenta",
+      "regla_enlace"
+    ],
+    "nota": "derechos de grado en dominio .online"
+  },
+  {
+    "id": "q5",
+    "email_id": "p29",
+    "gold_chunk_ids": [
+      "campana_drive",
+      "regla_dominio",
+      "regla_credenciales"
+    ],
+    "nota": "Google Drive lookalike"
+  },
+  {
+    "id": "q6",
+    "email_id": "p30",
+    "gold_chunk_ids": [
+      "campana_banco",
+      "regla_cuenta",
+      "regla_credenciales"
+    ],
+    "nota": "Nequi + PIN + bloqueo"
+  },
+  {
+    "id": "q7",
+    "email_id": "p31",
+    "gold_chunk_ids": [
+      "campana_dian",
+      "regla_premio",
+      "regla_urgencia"
+    ],
+    "nota": "premio a cambio de impuesto"
+  },
+  {
+    "id": "q8",
+    "email_id": "p32",
+    "gold_chunk_ids": [
+      "regla_adjunto",
+      "campana_dian"
+    ],
+    "nota": "factura.html + macros"
+  }
+]

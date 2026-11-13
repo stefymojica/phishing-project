@@ -1,0 +1,65 @@
+id,split,label,subject,body
+p01,train,phishing,Su contraseña vence hoy,IT Support: su cuenta Microsoft se bloqueará en 2 horas. Confirme ahora en http://micros0ft-login.xyz/reset
+p02,train,phishing,Actividad inusual en su cuenta Google,"Detectamos un inicio de sesión en Rusia. Si no fue usted, verifique su identidad aquí: http://g00gle-secure.net/verify"
+p03,train,phishing,Bancolombia: transacción no reconocida,Se intentó un débito de $3.500.000. Para cancelarlo ingrese YA a http://bancolombia-soporte.tk/pago
+p04,train,phishing,Davivienda alerta de seguridad,Su token será inhabilitado. Actualice datos en http://davivienda-auth.xyz o perderá acceso a la app.
+p05,train,phishing,Paquete detenido en aduana,Servientrega: pague $9.900 de impuesto para liberar su envío. Enlace: http://servi-entrega-pago.com/impuesto
+p06,train,phishing,Coordinadora: reprogramar entrega,No encontramos su dirección. Confirme en las próximas 3 horas: http://coordinadora-envios.ga/reprogramar
+p07,train,phishing,Matrícula bloqueada,Oficina financiera UR: su matrícula se anulará hoy. Pague el saldo en http://ur-pagos.online/matricula
+p08,train,phishing,Notas publicadas — ver ahora,El sistema académico detectó un error. Desbloquee su boletín: http://notas-universidad.xyz/login
+p09,train,phishing,Ha ganado un iPhone 16,Sorteo exclusiva. Solo debe pagar el envío de $25.000 aquí: http://premio-apple.win/reclamar
+p10,train,phishing,Factura pendiente de pago,Adjunto XML de factura Claro. Descargue el archivo factura.html y habilite macros para ver el detalle.
+p11,train,phishing,Netflix: actualice su método de pago,No pudimos cobrar. Evite la suspensión hoy mismo: http://netfl1x-cuenta.com/billing
+p12,train,phishing,WhatsApp: su código de verificación,"Alguien intenta vincular su WhatsApp. Si no es usted, entre a http://whatsapp-web.tk y cancele."
+p13,train,phishing,DIAN: devolución de impuestos,Tiene un saldo a favor de $1.200.000. Reclámelo antes de medianoche: http://dian-devolucion.xyz/form
+p14,train,phishing,Apple ID bloqueado,Restablezca su Apple ID o se perderán las fotos. Link: http://appleid-unlock.xyz/restore
+p15,train,phishing,RRHH: actualización de nómina,Debe confirmar su cuenta bancaria hoy. Formulario interno: http://nomina-empresa.ga/datos
+p16,train,phishing,PayPal: reembolso en proceso,Confirme su identidad para recibir USD 480. Página segura: http://paypal-refunds.net/id
+p17,train,phishing,Cuenta de correo llena,Outlook: su buzón se eliminará. Valide el usuario en http://outlook-webmail.xyz/quota
+p18,train,phishing,Transferencia SPEI rechazada,BBVA: actualice su token móvil o la transferencia se perderá. http://bbva-token.tk/activar
+p19,train,phishing,Documento compartido en OneDrive,Juan compartió Contrato_final.docx. Inicie sesión: http://onedrive-files.xyz/share/contrato
+p20,train,phishing,Soporte técnico Windows,Su licencia es pirata. Llame YA al +57 300 000 0000 o ingrese la clave en http://windows-license.xyz
+p21,train,phishing,Nequi: movimiento no autorizado,Se enviaron $800.000 a un tercero. Revierta el pago aquí: http://nequi-soporte.online/reversar
+p22,train,phishing,Zoom: reunión urgente de decanatura,Únase ahora. Debe instalar este cliente: http://zoom-meeting.tk/descargar.exe
+p23,train,phishing,Actualización de Moodle,Cambie su clave académica en este enlace de contingencia: http://moodle-reset.xyz/password
+p24,train,phishing,DHL: arancel pendiente,Su paquete internacional está retenido. Pague el arancel: http://dhl-arancel.com/pay
+h01,train,ham,Notas del parcial 2,"Hola, ya subí las notas al Moodle institucional. Cualquier reclamo en el horario de oficina del jueves."
+h02,train,ham,Reunión de grupo tesis,¿Les sirve mañana 10 am en la sala 302? Llevo el borrador del capítulo 3 impreso.
+h03,train,ham,Recibo de pago Enel,Adjunto el comprobante de la factura de energía de octubre. El pago quedó aplicado en la app oficial.
+h04,train,ham,Recordatorio: entrega del taller,El taller de ensambles vence el viernes a las 23:59 en la plataforma de la universidad. Sin prórroga.
+h05,train,ham,Fotos del cumpleaños,Te pasé el álbum por Google Drive con tu correo de siempre. No hay que instalar nada.
+h06,train,ham,Horario de monitoría,"Monitoría de ML2: lunes y miércoles 2-4 pm, cubículo 12. Traigan dudas del notebook de SVM."
+h07,train,ham,Pedido Falabella entregado,Tu pedido 784512 fue entregado hoy a las 14:10. Califica la compra en la app Falabella cuando quieras.
+h08,train,ham,Cambio de salón,"La clase del martes se mueve al auditorio B. Mismo horario. Saludos, secretaría de departamento."
+h09,train,ham,Resumen de la reunión,Quedamos en usar F1 de la clase positiva y no solo accuracy. Te mando la tabla mañana.
+h10,train,ham,Invitación al seminario,"Seminario de embeddings el 12 de noviembre, 9 am, Zoom institucional (el enlace está en el correo de la facultad)."
+h11,train,ham,Devolución de libro,La biblioteca recuerda que Cormen vence el 20. Puedes renovar en el catálogo con tu usuario UR.
+h12,train,ham,Almuerzo el viernes,¿Pizza en el bloque 5 después de la clase de RAG? Yo invito la primera ronda.
+h13,train,ham,Confirmación de cita médica,"Cita con dermatología el 8 de noviembre a las 3 pm. Si no puedes ir, cancela en la app de la EPS."
+h14,train,ham,Paper que comentamos,Te dejo el PDF de Attention is All You Need en el Teams del curso. Léelo hasta la sección 3.
+h15,train,ham,Pago de arriendo,Ya te hice la transferencia a tu cuenta de siempre. Referencia: arriendo noviembre. Revisa Nequi.
+h16,train,ham,Encuesta de medio término,La facultad pidió responder la encuesta institucional. El enlace está en el correo @urosario.edu.co.
+h17,train,ham,Código del repo,Subí el notebook de GloVe al GitHub del grupo. Clona main y corre la celda 1.
+h18,train,ham,Feliz cumpleaños,"Feliz cumpleaños, Stefany. Que el final de ML salga bien. Abrazo."
+h19,train,ham,Acta del consejo,"Adjuntamos el acta de octubre. Próxima sesión: 15 de noviembre, 8 am, sala de juntas."
+h20,train,ham,Clave de WiFi del laboratorio,"La clave del lab de cómputo se renovó. Pregunta en el escritorio de sistemas del primer piso, con carné."
+h21,train,ham,Resultados del hemograma,Tus resultados ya están en el portal del laboratorio. Entra con usuario y contraseña que te dimos en la sede.
+h22,train,ham,Grupo de estudio SVM,"Repasamos margen geométrico y kernel RBF el domingo 4 pm, biblioteca. Lleva el cuaderno."
+h23,train,ham,Tu vuelo está confirmado,"Avianca: Bogotá-Medellín, 14 de noviembre, 6:40 am. Check-in en avianca.com con tu apellido y reserva."
+h24,train,ham,Borrador corregido,Te devolví el Word con comentarios. La sección de RAG quedó clara; falta la tabla de Recall@5.
+p25,test,phishing,Microsoft 365: confirme su sesión,Su licencia caduca en 1 hora. Inicie sesión en http://micros0ft-office.xyz/365 o se suspenderá Outlook.
+p26,test,phishing,Alerta Bancolombia sucursal virtual,Hay una transferencia pendiente de $2.100.000. Autorícela ahora: http://bancolombia-virtual.tk/otp
+p27,test,phishing,Servientrega: pague para entregar,Su paquete no se entregó. Abone $7.500 en http://servientrega-pago.ga/abono en las próximas 2 horas.
+p28,test,phishing,UR: pago de derechos de grado,Si no paga hoy se aplaza la ceremonia. Portal de pagos: http://ur-grados.online/derechos
+p29,test,phishing,Google Drive: documento confidencial,Le compartieron Nómina.xlsx. Para verlo verifique la cuenta en http://g00gle-drive.net/nomina
+p30,test,phishing,Nequi bloqueará su cuenta,Actualice su PIN de inmediato o perderá el saldo. Formulario: http://nequi-seguridad.xyz/pin
+p31,test,phishing,Premio de compensación,Fue seleccionado. Pague el impuesto de $40.000 y reciba $8.000.000: http://premio-dian.win/cobrar
+p32,test,phishing,Factura electrónicá pendiente,Abra el adjunto factura_claro.html y habilite el contenido para descargar el PDF de la DIAN.
+h25,test,ham,Enlace de la clase,"El Zoom de hoy es el de siempre, el de la facultad. Lo reenvío por Teams para que no se pierda."
+h26,test,ham,Entrega del proyecto,Recuerden el README y las carpetas de experimentos. No hace falta GPU. Nos vemos en la sustentación.
+h27,test,ham,Comprobante Rappi,Tu pedido de almuerzo ya va en camino. El pago se hizo con tu tarjeta terminada en 4412.
+h28,test,ham,Cita con el director,Quedamos el miércoles 11 am para revisar el eje 2 del RAG. Trae la tabla de Recall@5 impresa.
+h29,test,ham,Bibliografía del final,Te recomiendo el paper original de GloVe y el de RAG de Lewis et al. 2020. Están en el Drive del curso.
+h30,test,ham,Gracias por la monitoría,Me sirvió mucho lo de bagging vs boosting. Mañana te paso el café que te debo.
+h31,test,ham,Cambio de hora del bus,"El intermunicipal de las 5 pm saldrá a las 5:20 por tráfico. Tiquete válido, no hay que pagar de nuevo."
+h32,test,ham,Boletín de notas parciales,"Ya puedes ver el corte 2 en el sistema académico con tu usuario institucional. Cualquier error, escribe a registro."

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "regla_urgencia",
+    "titulo": "Urgencia artificial",
+    "texto": "El phishing aprieta el tiempo: 'hoy', 'en 1 hora', 'o se bloqueará'. Busca que actúes sin pensar."
+  },
+  {
+    "id": "regla_dominio",
+    "titulo": "Dominio que imita una marca",
+    "texto": "Lookalike: micros0ft, g00gle, bancolombia-soporte.tk. El dominio no es el oficial de la empresa."
+  },
+  {
+    "id": "regla_enlace",
+    "titulo": "Enlace que no coincide con el remitente",
+    "texto": "El texto dice Microsoft o Bancolombia, pero el URL apunta a .xyz .tk .ga .online o un sitio raro."
+  },
+  {
+    "id": "regla_credenciales",
+    "titulo": "Pide contraseña, PIN o token",
+    "texto": "Un banco o Microsoft no te pide clave, OTP o PIN por un enlace llegado de sorpresa al correo."
+  },
+  {
+    "id": "regla_adjunto",
+    "titulo": "Adjunto html o exe",
+    "texto": "facturas.html, habilitar macros, descargar.exe. El adjunto no es un PDF inocente: es el gancho."
+  },
+  {
+    "id": "regla_premio",
+    "titulo": "Premio o devolución a cambio de un pago",
+    "texto": "Ganaste un iPhone, devolución DIAN, compensación. Primero te piden pagar un 'impuesto' o 'envío'."
+  },
+  {
+    "id": "regla_cuenta",
+    "titulo": "Amenaza de bloqueo de cuenta",
+    "texto": "Nequi, Outlook, Apple ID, matrícula: 'se bloqueará / se anulará si no entra a este link'."
+  }
+]

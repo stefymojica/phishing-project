@@ -1,0 +1,32 @@
+[
+  {
+    "id": "campana_microsoft",
+    "titulo": "Falso soporte Microsoft / Office 365",
+    "texto": "Correos que imitan IT Support o Microsoft 365. Dominios tipo micros0ft-login.xyz. Piden restablecer contraseña o la licencia."
+  },
+  {
+    "id": "campana_banco",
+    "titulo": "Falsa alerta bancaria",
+    "texto": "Bancolombia, Davivienda, BBVA, Nequi: transacción no reconocida o token vencido. El enlace no es sucursalvirtual."
+  },
+  {
+    "id": "campana_paquete",
+    "titulo": "Paquete retenido",
+    "texto": "Servientrega, Coordinadora, DHL: piden un abono o arancel pequeño para 'liberar' un envío que no pediste."
+  },
+  {
+    "id": "campana_universidad",
+    "titulo": "Falso portal académico",
+    "texto": "Matrícula, notas o derechos de grado. UR u otra universidad. El portal de pagos no usa el dominio oficial."
+  },
+  {
+    "id": "campana_drive",
+    "titulo": "Documento compartido falso",
+    "texto": "OneDrive, Google Drive, contrato.docx, nómina.xlsx. El link pide 'verificar cuenta' en un dominio apócrifo."
+  },
+  {
+    "id": "campana_dian",
+    "titulo": "Falsa DIAN o premio",
+    "texto": "Devolución de impuestos o sorteo. Piden datos o un pago adelantado para entregar un dinero que no existe."
+  }
+]
