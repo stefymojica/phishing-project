@@ -6,7 +6,6 @@ __pycache__/
 # documentación
 informe.tex
 informe.pdf
-README.md
 *.md
 
 # salidas del informe y de los experimentos
